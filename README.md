@@ -1,2 +1,2 @@
 # UI-lib
-Aim : make various ui elemnts that i ca reuse in future (maybe probably ig :)
+Aim : make various ui elemnts that i can reuse in future (maybe probably ig :) )
